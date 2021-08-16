@@ -49,6 +49,7 @@ In this self-directed collabovation period, developer teams will work on complet
 ```
 
 #### Skills Showcase: _Pitch & Demo_
+
 ```
 In this interactive showcase event, developer teams will present their Bot and demonstrate the functionality of their MVP.
 ```
