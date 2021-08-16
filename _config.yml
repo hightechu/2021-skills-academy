@@ -1,0 +1,8 @@
+#Site Settings
+title: E2 Accelerator
+
+baseurl: e2-accelerator
+plugins:
+  - jemoji
+
+theme: jekyll-theme-primer

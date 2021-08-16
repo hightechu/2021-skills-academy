@@ -1,0 +1,45 @@
+[data-theme="dark"] {
+  background-color: #111 !important;
+  color: #eee;
+}
+
+[data-theme="dark"] .markdown-body table tr {
+  background-color: #111 !important;
+  color: #eee;
+}
+
+[data-theme="dark"] .markdown-body table tr:nth-child(2n) {
+  background-color: #3B3C36 !important;
+  color: #eee;
+}
+
+[data-theme="dark"] .markdown-body .highlight pre, .markdown-body pre {
+    background-color: #3B3C36 !important;
+  color: #eee;
+}
+
+
+[data-theme="dark"] ul.nav li a, ul.nav li a:visited {
+    color: #fff !important;
+}
+
+[data-theme="dark"] ul.nav li a:hover, ul.nav li a:active {
+    color: #255ab2 !important;
+}
+
+[data-theme="dark"] ul.nav li.active a {
+    color: #477fc7 !important;
+}
+
+
+[data-theme="dark"] .bg-light {
+  background-color: #333 !important;
+}
+
+[data-theme="dark"] .bg-white {
+  background-color: #000 !important;
+}
+
+[data-theme="dark"] .bg-black {
+  background-color: #eee !important;
+}
