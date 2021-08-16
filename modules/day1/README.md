@@ -36,19 +36,27 @@ By the end of today, developers should be able to...
 ## Collabovation Module Details
 
 #### Daily Standup
+
 ```
-Developers will start the day by exploraing three questions [1] What did we do yesterday? [2] What is the plan for the day? [3] What is standing in your way?
+Developers will start the day by exploraing three questions:
+[1] What did we do yesterday? 
+[2] What is the plan for the day? 
+[3] What is standing in your way?
 ```
+
 
 #### Workshop: _Team Trust Accelerator_
 
 ```
 In this hands-on workshop, developers will complete a series of synchronous exercises designed to help teams better understand their diverse strengths and actually practice being a team.
 ```
+
 #### Workshop: _Tech Tool Training_
+
 ```
 In this hands-on workshop, developers will be introduced to the main technologies and tools being used in the Academy including: GitHub, Visual Studio Code, Slack, Zoom and MURAL.
 ```
+
 #### Building Block: _Techsploring the Tools_
 
 ```
@@ -56,6 +64,7 @@ In this self-directed collabovation period, developers will explore the main tec
 ```
 
 #### Daily Retrospective
+
 ```
 - Complete Daily Retrospective Form
 - End of Day Group Check-in
