@@ -5,8 +5,8 @@
 [Home](/2021-skills-academy) | [Day 1](/2021-skills-academy/modules/day1/) | [Day 2](/2021-skills-academy/modules/day2/) | [Day 3](/2021-skills-academy/modules/day3/) | [Day 4](/2021-skills-academy/modules/day4/) | [Day 5](/2021-skills-academy/modules/day5/) 
 
 ## Collabovation Outcomes
-By the end of today, entrepreneurs should be able to...
-* Explain the business model for their Bot Based Business 
+By the end of today, developers should be able to...
+* Explain the design thinking process behind their Discord bot. 
 * Demonstrate the functionality of their Discord Bot MVP
 
 ---
@@ -47,7 +47,7 @@ In this self-directed collabovation period, developer teams will work on complet
 
 #### Skills Showcase: _Pitch & Demo_
 ```
-In this interactive showcase event, entrepreneur teams will present their Bot and demonstrate the functionality of their MVP.
+In this interactive showcase event, developer teams will present their Bot and demonstrate the functionality of their MVP.
 ```
 
 #### Daily Retrospective
