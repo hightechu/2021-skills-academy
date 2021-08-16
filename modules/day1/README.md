@@ -47,12 +47,12 @@ In this hands-on workshop, developers will complete a series of synchronous exer
 ```
 #### Workshop: _Tech Tool Training_
 ```
-In this hands-on workshop, developers will be introduced to the main technologies and tools being used in the Accelerator including: GitHub, Visual Studio Code, Slack, Zoom and MURAL.
+In this hands-on workshop, developers will be introduced to the main technologies and tools being used in the Academy including: GitHub, Visual Studio Code, Slack, Zoom and MURAL.
 ```
 #### Building Block: _Techsploring the Tools_
 
 ```
-In this self-directed collabovation period, developers will explore the main technologies introduced in the "Tech Tool Training" Skills Lab through a series of immersive challenges to help prepare them for the Acadeny experience.
+In this self-directed collabovation period, developers will explore the main technologies introduced in the "Tech Tool Training" workshop through a series of immersive challenges to help prepare them for the Academy experience.
 ```
 
 #### Daily Retrospective
