@@ -5,7 +5,7 @@
 [Home](/2021-skills-academy) | [Day 1](/2021-skills-academy/modules/day1/) | [Day 2](/2021-skills-academy/modules/day2/) | [Day 3](/2021-skills-academy/modules/day3/) | [Day 4](/2021-skills-academy/modules/day4/) | [Day 5](/2021-skills-academy/modules/day5/) 
 
 ## Collabovation Outcomes
-By the end of today, entrepreneurs should be able to...
+By the end of today, developers should be able to...
 * Explain the purpose and structure of the Summer Accelerator.
 * Demonstrate an understanding of the strengths of the team mates.
 * Describe why the Accelerator uses Daily Standups and Retrospective.
@@ -36,20 +36,20 @@ By the end of today, entrepreneurs should be able to...
 
 #### Daily Standup
 ```
-Entrepreneurs will start the day by exploraing three questions [1] What did we do yesterday? [2] What is the plan for the day? [3] What is standing in your way?
+Developers will start the day by exploraing three questions [1] What did we do yesterday? [2] What is the plan for the day? [3] What is standing in your way?
 ```
 
 #### Workshop: _Team Trust Accelerator_
 ```
-In this hands-on workshop, entrepreneurs will complete a series of synchronous exercises designed to help teams better understand their diverse strengths and actually practice being a team.
+In this hands-on workshop, developers will complete a series of synchronous exercises designed to help teams better understand their diverse strengths and actually practice being a team.
 ```
 #### Workshop: _Tech Tool Training_
 ```
-In this hands-on workshop, entrepreneurs will be introduced to the main technologies and tools being used in the Accelerator including: GitHub, Visual Studio Code, Slack, Zoom and MURAL.
+In this hands-on workshop, developers will be introduced to the main technologies and tools being used in the Accelerator including: GitHub, Visual Studio Code, Slack, Zoom and MURAL.
 ```
 #### Building Block: _Techsploring the Tools_
 ```
-In this self-directed collabovation period, entrepreneurs will explore the main technologies introduced in the "Tech Tool Training" Skills Lab through a series of immersive challenges to help prepare them for the Acadeny experience.
+In this self-directed collabovation period, developers will explore the main technologies introduced in the "Tech Tool Training" Skills Lab through a series of immersive challenges to help prepare them for the Acadeny experience.
 ```
 
 #### Daily Retrospective
