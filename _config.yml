@@ -5,4 +5,4 @@ baseurl: e2-accelerator
 plugins:
   - jemoji
 
-theme: jekyll-theme-primer
+theme: jekyll-theme-slate
