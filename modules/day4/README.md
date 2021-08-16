@@ -37,6 +37,7 @@ Developers will start the day by exploraing three questions [1] What did we do y
 ```
 
 #### Building Block: _Design, Development & Debugging_
+
 ```
 In this self-directed collabovation period, developer teams will impliment the skills introduced during previous workshops to continue implimenting their designs as code.
 ```
