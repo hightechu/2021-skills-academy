@@ -69,7 +69,7 @@ In this self-directed collabovation period, developers teams will impliment the 
 
 ### Coach Resources :woman_teacher:
 
-* [Link to Module Plans]()
+* [Link to Module Plans](https://drive.google.com/drive/folders/1vJYErYj_LXAAW-8XfwyFPL44M_YTQ8hz?usp=sharing)
 
 ---
 
