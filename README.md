@@ -11,7 +11,7 @@ This page and [related repository](https://github.com/hightechu/2021-skills-acad
 | [Monday](/2021-skills-academy/modules/day1)    | Team Building & Tech Tools                                     |
 | [Tuesday](/2021-skills-academy/modules/day2)    | Design Thinking & Discord.js                                |
 | [Wednesday](/2021-skills-academy/modules/day3)    | Digging Deeper into Discord.js                                          |
-| [Thursday](/2021-skills-academy/modules/day4)    | Bot-Buidling Bonanza                                        |
+| [Thursday](/2021-skills-academy/modules/day4)    | Bot-Building Bonanza                                        |
 | [Friday](/2021-skills-academy/modules/day5)    | Pitch & Demo Day                                               |
 
 ### Daily Feedback Form :loudspeaker:
