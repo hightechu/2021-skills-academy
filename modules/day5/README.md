@@ -37,6 +37,7 @@ Developers will start the day by exploraing three questions [1] What did we do y
 ```
 
 #### Building Block: _Decluttering and Deploying to Discord_
+
 ```
 In this self-directed collabovation period, developer teams will continue the implimentation of their Discord Bot Design as code, ensuring the repositories and code is ready for publishing on GitHub. 
 ```
