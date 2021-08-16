@@ -43,6 +43,7 @@ In this self-directed collabovation period, developer teams will continue the im
 ```
 
 #### Building Block: _Polishing the Presentation_
+
 ```
 In this self-directed collabovation period, developer teams will work on completing any outstanding changes to the Pitch & Demo Presentation.
 ```
