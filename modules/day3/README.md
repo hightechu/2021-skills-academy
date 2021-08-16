@@ -22,7 +22,7 @@ By the end of today, developers should be able to...
 |`11:00-11:15`|`Screen Break`|
 |11:15-12:00|Workshop: _Development with Discord.js_ | 
 |`12:00-12:30`|`Lunch`|
-|12:30-01:15|Building Block: _Design, Development & Debugging_ | 
+|12:30-01:15|Workshop: _Development with Discord.js_ | 
 |`1:15-2:00`|`Screen Break`|
 |2:00-2:45|Building Block: _Design, Development & Debugging_| 
 |`2:45-3:00`|`Screen Break`|
