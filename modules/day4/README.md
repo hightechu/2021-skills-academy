@@ -47,6 +47,7 @@ In this self-directed collabovation period, developer teams will impliment the s
 ```
 
 #### Building Block: _Perfecting Your Pitch_
+
 ```
 In this self-directed collabovation period, developers teams will impliment the pitch development skills introduced during the previous workshop towards their project.
 ```
