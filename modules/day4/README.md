@@ -42,6 +42,7 @@ In this self-directed collabovation period, developer teams will impliment the s
 ```
 
 #### Workshop: _Pitching Your Project_
+
 ```
 In this self-directed collabovation period, developer teams will impliment the skills introduced during previous workshops to continue implimenting their designs as code.
 ```
