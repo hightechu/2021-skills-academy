@@ -5,6 +5,7 @@
 [Home](/2021-skills-academy) | [Day 1](/2021-skills-academy/modules/day1/) | [Day 2](/2021-skills-academy/modules/day2/) | [Day 3](/2021-skills-academy/modules/day3/) | [Day 4](/2021-skills-academy/modules/day4/) | [Day 5](/2021-skills-academy/modules/day5/) 
 
 ## Collabovation Outcomes
+
 By the end of today, developers should be able to...
 * Explain the purpose and structure of the Summer Accelerator.
 * Demonstrate an understanding of the strengths of the team mates.
