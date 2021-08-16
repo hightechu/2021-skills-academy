@@ -22,11 +22,11 @@ By the end of today, developers should be able to...
 |`11:00-11:15`|`Screen Break`|
 |11:15-12:00|Building Block: _Design, Development & Debugging_ | 
 |`12:00-12:30`|`Lunch`|
-|12:30-01:15|Building Block: _Design, Development & Debugging_) | 
+|12:30-01:15|Building Block: _Design, Development & Debugging_ | 
 |`1:15-2:00`|`Screen Break`|
 |2:00-2:45|Workshop: Pitching Your Project| 
 |`2:45-3:00`|`Screen Break`|
-|3:00-3:45|Building Block: Perfecting the Pitch| 
+|3:00-3:45|Building Block: Polishing the Presentation| 
 |3:45-4:00|Daily Retrospective| 
 
 
@@ -53,7 +53,7 @@ In this self-directed collabovation period, developer teams will impliment the s
 In this hands-on workshop, developers will be introduced to the skills they will need in order to build their presentation pitch deck for the Pitch & Demo Day.
 ```
 
-#### Building Block: _Perfecting Your Pitch_
+#### Building Block: _Polishing the Presentation_
 
 ```
 In this self-directed collabovation period, developers teams will impliment the pitch development skills introduced during the previous workshop towards their project.
