@@ -34,7 +34,7 @@ By the end of today, developers should be able to...
 #### Daily Standup
 
 ```
-Developers will start the day by exploraing three questions:
+Developers will start the day by exploring three questions:
 [1] What did we do yesterday? 
 [2] What is the plan for the day? 
 [3] What is standing in your way?
