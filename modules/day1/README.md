@@ -1,6 +1,6 @@
-# E<sup>2</sup> Summer Accelerator 2021
+# Summer Skills Academy 2021
 
-**Summer Accelerator - Course Material - Day 1 - Team Building & Tech Tools**
+**Skills Academy - Course Material - Day 1 - Team Building & Tech Tools**
 
 #### Navigation :arrow_right: [Home](https://hightechu.github.io/e2-accelerator) | [Day 1](https://hightechu.github.io/e2-accelerator/modules/day1/) | [Day 2](https://hightechu.github.io/e2-accelerator/modules/day2/) | [Day 3](https://hightechu.github.io/e2-accelerator/modules/day3/) | [Day 4](https://hightechu.github.io/e2-accelerator/modules/day4/) | [Day 5](https://hightechu.github.io/e2-accelerator/modules/day5/) 
 
@@ -20,15 +20,15 @@ By the end of today, entrepreneurs should be able to...
 |Time|Activity|
 |:---|:---|
 |10:00-10:15|Welcome Ceremony| 
-|10:15-11:00|Skills Lab: _Team Trust Accelerator_|
+|10:15-11:00|Workshop: _Team Trust Accelerator_|
 |`11:00-11:15`|`Screen Break`|
-|11:15-12:00|Skills Lab: _Team Trust Accelerator_ | 
+|11:15-12:00|Workshop: _Team Trust Accelerator_ | 
 |`12:00-12:30`|`Lunch`|
-|12:30-01:15|Skills Lab: _Tech Tool Training_ | 
+|12:30-01:15|Workshop: _Tech Tool Training_ | 
 |`1:15-2:00`|`Screen Break`|
-|2:00-2:45|Skill Studio: _Techsploring the Tools_ | 
+|2:00-2:45|Building Block: _Techsploring the Tools_ | 
 |`2:45-3:00`|`Screen Break`|
-|3:00-3:45|Skill Studio: _Techsploring the Tools_ | 
+|3:00-3:45|Building Block: _Techsploring the Tools_ | 
 |3:45-4:00|Daily Retrospective| 
 
 
@@ -39,17 +39,17 @@ By the end of today, entrepreneurs should be able to...
 Entrepreneurs will start the day by exploraing three questions [1] What did we do yesterday? [2] What is the plan for the day? [3] What is standing in your way?
 ```
 
-#### Skills Lab: _Team Trust Accelerator_
+#### Workshop: _Team Trust Accelerator_
 ```
 In this hands-on workshop, entrepreneurs will complete a series of synchronous exercises designed to help teams better understand their diverse strengths and actually practice being a team.
 ```
-#### Skills Lab: _Tech Tool Training_
+#### Workshop: _Tech Tool Training_
 ```
 In this hands-on workshop, entrepreneurs will be introduced to the main technologies and tools being used in the Accelerator including: GitHub, Visual Studio Code, Slack, Zoom and MURAL.
 ```
-#### Skill Studio: _Techsploring the Tools_
+#### Building Block: _Techsploring the Tools_
 ```
-In this self-directed collabovation period, entrepreneurs will explore the main technologies introduced in the "Tech Tool Training" Skills Lab through a series of immersive challenges to help prepare them for the Accelerator experience.
+In this self-directed collabovation period, entrepreneurs will explore the main technologies introduced in the "Tech Tool Training" Skills Lab through a series of immersive challenges to help prepare them for the Acadeny experience.
 ```
 
 #### Daily Retrospective
@@ -60,16 +60,16 @@ In this self-directed collabovation period, entrepreneurs will explore the main 
 
 ---
 
-### Daily Retrospective Form :loudspeaker:
+### Daily Feedback Form :loudspeaker:
 
-* [Google Form](https://forms.gle/7UspJfLA2Dg4eNG39)
+* [Google Form](https://forms.gle/tNmshMyaU2523mD4A)
 
-### Entrepreneur Resources :blue_book:
+### Developer Resources :blue_book:
 
-* [General Workspace](https://app.mural.co/t/hightechu8022/m/hightechu8022/1628205814084/dfafa5e63bd629d074733653a25260251a82d023?sender=andrew5384)
+* [General Workspace](https://app.mural.co/t/hightechu8022/m/hightechu8022/1628903701606/20c50d29cbcdd13cf3c68a2027e6096fc89bd40a?sender=andrew5384)
 
-### Instructional Resources :woman_teacher:
-* [Link to Modules](https://drive.google.com/drive/folders/1jSZ4hIsHgXA6odYKMwmH6ef4nuRwrqaK?usp=sharing)
+### Coach Resources :woman_teacher:
+* [Link to Module Plans]()
 
 ---
 
@@ -80,7 +80,6 @@ In this self-directed collabovation period, entrepreneurs will explore the main 
 * [MURAL Workspace](https://app.mural.co/t/hightechu8022/m/hightechu8022/1628205814084/dfafa5e63bd629d074733653a25260251a82d023?sender=andrew5384)
 * [GitHub Repo](https://github.com/hightechu/e2-accelerator) 
 
-
 ## Support :grey_question:
 
-For support, please message us 💬 on [Slack](https://e2-accelerator.slack.com) or email the Accelerator Team at :email: <accelerator@hightechu.ca>
+For support, please message us 💬 on [Slack](https://hightechuacademy.slack.com) or email the Academy Team at :email: <academy@hightechu.ca>
