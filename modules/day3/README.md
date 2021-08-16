@@ -17,15 +17,15 @@ By the end of today, entrepreneurs should be able to...
 |Time|Activity|
 |:---|:---|
 |10:00-10:15|Daily Standup| 
-|10:15-11:00| Skills Lab: _Deconstructing Discord_ |
+|10:15-11:00| Workshop: _Deconstructing Discord_ |
 |`11:00-11:15`|`Screen Break`|
-|11:15-12:00|Skills Lab: _Development with Discord.js_ | 
+|11:15-12:00|Workshop: _Development with Discord.js_ | 
 |`12:00-12:30`|`Lunch`|
-|12:30-01:15|Skill Studio: _Design, Development & Debugging_ | 
+|12:30-01:15|Building Block: _Design, Development & Debugging_ | 
 |`1:15-2:00`|`Screen Break`|
-|2:00-2:45|Skill Studio: _Design, Development & Debugging_| 
+|2:00-2:45|Building Block: _Design, Development & Debugging_| 
 |`2:45-3:00`|`Screen Break`|
-|3:00-3:45|Skill Studio: _Design, Development & Debugging_| 
+|3:00-3:45|Building Block: _Design, Development & Debugging_| 
 |3:45-4:00|Daily Retrospective| 
 
 
