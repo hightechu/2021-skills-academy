@@ -1,7 +1,7 @@
 #Site Settings
-title: E2 Accelerator
+title: Skills Academy
 
-baseurl: e2-accelerator
+baseurl: 2021-skills-academy
 plugins:
   - jemoji
 
