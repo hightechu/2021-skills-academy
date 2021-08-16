@@ -19,9 +19,9 @@ By the end of today, developers should be able to...
 |10:00-10:15|Daily Standup| 
 |10:15-11:00|Post-Academy Survey |
 |`11:00-11:15`|`Screen Break`|
-|11:15-12:00|Building Block: _Decluttering and Deploying to Discord_ | 
+|11:15-12:00|Building Block: _Design, Development & Debugging_ | 
 |`12:00-12:30`|`Lunch`|
-|12:30-01:15|Building Block: _Decluttering and Deploying to Discord_ | 
+|12:30-01:15|Building Block: _Design, Development & Debugging_ | 
 |`1:15-2:00`|`Screen Break`|
 |2:00-2:45|Building Block: _Polishing the Presentation_| 
 |`2:45-3:00`|`Screen Break`|
@@ -41,7 +41,7 @@ Developers will start the day by exploring three questions:
 ```
 
 
-#### Building Block: _Decluttering and Deploying to Discord_
+#### Building Block: _Design, Development & Debugging__
 
 ```
 In this self-directed collabovation period, developer teams will continue the implimentation of their Discord Bot Design as code, ensuring the repositories and code is ready for publishing on GitHub. 
