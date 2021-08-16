@@ -2,7 +2,7 @@
 
 **Skills Academy - Course Material - Day 1 - Team Building & Tech Tools**
 
-#### Navigation :arrow_right: [Home](https://hightechu.github.io/e2-accelerator) | [Day 1](https://hightechu.github.io/e2-accelerator/modules/day1/) | [Day 2](https://hightechu.github.io/e2-accelerator/modules/day2/) | [Day 3](https://hightechu.github.io/e2-accelerator/modules/day3/) | [Day 4](https://hightechu.github.io/e2-accelerator/modules/day4/) | [Day 5](https://hightechu.github.io/e2-accelerator/modules/day5/) 
+[Home](/2021-skills-academy) | [Day 1](/2021-skills-academy/modules/day1/) | [Day 2](/2021-skills-academy/modules/day2/) | [Day 3](/2021-skills-academy/modules/day3/) | [Day 4](/2021-skills-academy/modules/day4/) | [Day 5](/2021-skills-academy/modules/day5/) 
 
 ## Collabovation Outcomes
 By the end of today, entrepreneurs should be able to...
