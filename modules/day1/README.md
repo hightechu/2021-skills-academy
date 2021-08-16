@@ -41,6 +41,7 @@ Developers will start the day by exploraing three questions [1] What did we do y
 ```
 
 #### Workshop: _Team Trust Accelerator_
+
 ```
 In this hands-on workshop, developers will complete a series of synchronous exercises designed to help teams better understand their diverse strengths and actually practice being a team.
 ```
