@@ -7,7 +7,7 @@
 ## Collabovation Outcomes
 
 By the end of today, developers should be able to...
-* Explain the purpose and structure of the Summer Accelerator.
+* Explain the purpose and structure of the Summer Skills Academy.
 * Demonstrate an understanding of the strengths of the team mates.
 * Describe why the Skills Academy uses Daily Standups and Retrospective.
 * Utilize advanced collaboration features of Slack and Zoom.
