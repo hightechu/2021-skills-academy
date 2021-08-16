@@ -33,15 +33,22 @@ By the end of today, developers should be able to...
 ## Collabovation Module Details
 
 #### Daily Standup
+
 ```
-Developers will start the day by exploraing three questions [1] What did we do yesterday? [2] What is the plan for the day? [3] What is standing in your way?
+Developers will start the day by exploring three questions:
+[1] What did we do yesterday? 
+[2] What is the plan for the day? 
+[3] What is standing in your way?
 ```
 
+
 #### Workshop: _Discovering Designing Thinking_
+
 ```
 In this hands-on workshop, developers will learn the Design Thinking process by experiencing the Collabovation Challenge a series of design thinking activities framed around the same type of problems which will be explored during the Academy.
 ```
 #### Workshop: _Understanding User Flow_
+
 ```
 In this hands-on workshop, developers will be introduced to the User Experience (UX) and User Interface (UI) design process, building out their first User Flow diagram for the solution developed in the previous workshop.
 ```
@@ -53,6 +60,7 @@ In this self-directed collabovation period, developers will work in teams to app
 
 
 #### Daily Retrospective
+
 ```
 - Complete Daily Retrospective Form
 - End of Day Group Check-in

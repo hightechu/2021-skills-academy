@@ -35,24 +35,32 @@ By the end of today, developers should be able to...
 #### Daily Standup
 
 ```
-Developers will start the day by exploraing three questions [1] What did we do yesterday? [2] What is the plan for the day? [3] What is standing in your way?
+Developers will start the day by exploring three questions:
+[1] What did we do yesterday? 
+[2] What is the plan for the day? 
+[3] What is standing in your way?
 ```
 
 #### Workshop: _Deconstructing Discord_ 
+
 ```
 In this hands-on workshop, developers will explore the Discord Platform and Developer Documentation, beginning the process of creating their first Discord Bot.
 ```
+
 #### Workshop: _Development with Discord.js_
+
 ```
 In this hands-on workshop, developers will deploy their first Discord Bot using Firebase, Heroku and a provided skeleton template.
 ```
 
 #### Building Block: _Design, Development & Debugging_
+
 ```
 In this self-directed collabovation period, developer teams will impliment the skills introduced during previous workshops to continue implimenting their designs as code.
 ```
 
 #### Daily Retrospective
+
 ```
 - Complete Daily Retrospective Form
 - End of Day Group Check-in

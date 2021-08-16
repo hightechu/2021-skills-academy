@@ -32,9 +32,14 @@ By the end of today, developers should be able to...
 ## Collabovation Details
 
 #### Daily Standup
+
 ```
-Developers will start the day by exploraing three questions [1] What did we do yesterday? [2] What is the plan for the day? [3] What is standing in your way?
+Developers will start the day by exploring three questions:
+[1] What did we do yesterday? 
+[2] What is the plan for the day? 
+[3] What is standing in your way?
 ```
+
 
 #### Building Block: _Decluttering and Deploying to Discord_
 
@@ -55,6 +60,7 @@ In this interactive showcase event, developer teams will present their Bot and d
 ```
 
 #### Daily Retrospective
+
 ```
 - Complete Daily Retrospective Form
 - End of Day Group Check-in

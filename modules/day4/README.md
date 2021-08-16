@@ -35,7 +35,7 @@ By the end of today, developers should be able to...
 #### Daily Standup
 
 ```
-Developers will start the day by exploraing three questions:
+Developers will start the day by exploring three questions:
 [1] What did we do yesterday? 
 [2] What is the plan for the day? 
 [3] What is standing in your way?
@@ -50,7 +50,7 @@ In this self-directed collabovation period, developer teams will impliment the s
 #### Workshop: _Pitching Your Project_
 
 ```
-In this hands-on workshop, developers will be introduced to the skills they will need to build their presentation pitch deck for the Pitch & Demo Day.
+In this hands-on workshop, developers will be introduced to the skills they will need in order to build their presentation pitch deck for the Pitch & Demo Day.
 ```
 
 #### Building Block: _Perfecting Your Pitch_

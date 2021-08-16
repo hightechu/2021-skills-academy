@@ -4,7 +4,7 @@
 
 This page and [related repository](https://github.com/hightechu/2021-skills-academy) will be your main entry point for this program. You will find everything you need here.
 
-### Accelerator Outline :calendar:
+### Academy Outline :calendar:
 
 | Day          | Theme/Focus                                                   |
 |---------------|---------------------------------------------------------------|
