@@ -1,6 +1,6 @@
 # Summer Skills Academy 2021
 
-**Skills Academy - Course Material - Day 1 - Pitch & Demo Day**
+**Skills Academy - Course Material - Day 5 - Pitch & Demo Day**
 
 [Home](/2021-skills-academy) | [Day 1](/2021-skills-academy/modules/day1/) | [Day 2](/2021-skills-academy/modules/day2/) | [Day 3](/2021-skills-academy/modules/day3/) | [Day 4](/2021-skills-academy/modules/day4/) | [Day 5](/2021-skills-academy/modules/day5/) 
 
