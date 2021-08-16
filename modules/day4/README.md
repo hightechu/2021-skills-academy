@@ -1,8 +1,14 @@
 # Summer Skills Academy 2021
 
-**Skills Academy - Course Material - Day 4 - Bot Building Bonanza****
+**Skills Academy - Course Material - Day 4 - Bot Building Bonanza**
 
 [Home](/2021-skills-academy) | [Day 1](/2021-skills-academy/modules/day1/) | [Day 2](/2021-skills-academy/modules/day2/) | [Day 3](/2021-skills-academy/modules/day3/) | [Day 4](/2021-skills-academy/modules/day4/) | [Day 5](/2021-skills-academy/modules/day5/) 
+
+## Collabovation Outcomes
+By the end of today, developers should be able to...
+* Demonstrate at least one new functional iteration of their custom Discord Bot MVP.
+* Explain what components should be included in their project pitch.
+* Produce a first draft of their team project pitch presentation.
 
 ---
 
