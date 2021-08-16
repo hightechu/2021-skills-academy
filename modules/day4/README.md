@@ -75,7 +75,7 @@ In this self-directed collabovation period, developers teams will impliment the 
 
 ### Important Links :link: 
 
-* [Slack Workspace](https://e2-accelerator.slack.com)
+* [Slack Workspace](https://hightechuacademy.slack.com/)
 * [Zoom Room](https://uvic.zoom.us/j/82224785116?pwd=anVwNGdZQUtZd0dBN0hBVUxpWWZwZz09)
 * [MURAL Workspace](https://app.mural.co/t/hightechu8022/m/hightechu8022/1628205814084/dfafa5e63bd629d074733653a25260251a82d023?sender=andrew5384)
 * [GitHub Repo](https://github.com/hightechu/e2-accelerator) 
