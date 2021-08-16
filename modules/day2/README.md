@@ -46,6 +46,7 @@ In this hands-on workshop, developers will learn the Design Thinking process by 
 In this hands-on workshop, developers will be introduced to the User Experience (UX) and User Interface (UI) design process, building out their first User Flow diagram for the solution developed in the previous workshop.
 ```
 #### Building Block: _Designing for Discord_
+
 ```
 In this self-directed collabovation period, developers will work in teams to apply the skills learned during the two workshops of the day to select a single design which they will be implimenting over the course of the Accelerator.
 ```
