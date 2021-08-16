@@ -72,7 +72,7 @@ In this self-directed collabovation period, developers will explore the main tec
 * [General Workspace](https://app.mural.co/t/hightechu8022/m/hightechu8022/1628903701606/20c50d29cbcdd13cf3c68a2027e6096fc89bd40a?sender=andrew5384)
 
 ### Coach Resources :woman_teacher:
-* [Link to Module Plans]()
+* [Link to Module Plans](https://drive.google.com/drive/folders/1vJYErYj_LXAAW-8XfwyFPL44M_YTQ8hz?usp=sharing)
 
 ---
 
