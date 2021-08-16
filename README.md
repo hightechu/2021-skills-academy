@@ -1,4 +1,4 @@
-![HighTechU Summer Skills Academy](/2021-skills-academy/assets/2021-academy-header.png)
+![HighTechU Summer Skills Academy](/assets/2021-academy-header.png)
 
 ## Welcome to the HighTechU Summer Skills Academy :wave:! 
 
