@@ -4,5 +4,3 @@ title: Skills Academy
 baseurl: 2021-skills-academy
 plugins:
   - jemoji
-
-theme: jekyll-theme-slate
