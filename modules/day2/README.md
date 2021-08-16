@@ -1,11 +1,11 @@
-# E<sup>2</sup> Summer Accelerator 2021
+# Summer Skills Academy 2021
 
-**Summer Accelerator - Course Material - Day 2 - Design Thinking & Discord.js**
+**Skills Academy - Course Material - Day 2 - Design Thinking & Discord**
 
-#### Navigation :arrow_right: [Home](https://hightechu.github.io/e2-accelerator) | [Day 1](https://hightechu.github.io/e2-accelerator/modules/day1/) | [Day 2](https://hightechu.github.io/e2-accelerator/modules/day2/) | [Day 3](https://hightechu.github.io/e2-accelerator/modules/day3/) | [Day 4](https://hightechu.github.io/e2-accelerator/modules/day4/) | [Day 5](https://hightechu.github.io/e2-accelerator/modules/day5/) 
+[Home](/2021-skills-academy) | [Day 1](/2021-skills-academy/modules/day1/) | [Day 2](/2021-skills-academy/modules/day2/) | [Day 3](/2021-skills-academy/modules/day3/) | [Day 4](/2021-skills-academy/modules/day4/) | [Day 5](/2021-skills-academy/modules/day5/) 
 
 ## Collabovation Outcomes
-By the end of today, entrepreneurs should be able to...
+By the end of today, developers should be able to...
 * Apply the Design Thinking Process this Discord Bot Use Case .
 * Outline multiple ideas for a Discord Bot which addresses a specific user problem.
 * Create a visual User Flow diagram for a selected Discord-based chatbot.
@@ -17,15 +17,15 @@ By the end of today, entrepreneurs should be able to...
 |Time|Activity|
 |:---|:---|
 |10:00-10:15|Daily Standup| 
-|10:15-11:00|Skills Lab: _Discovering Designing Thinking_ |
+|10:15-11:00|Workshop: _Discovering Designing Thinking_ |
 |`11:00-11:15`|`Screen Break`|
-|11:15-12:00|Skills Lab: _Understanding User Flow_ | 
+|11:15-12:00|Workshop: _Understanding User Flow_ | 
 |`12:00-12:30`|`Lunch`|
-|12:30-01:15|Skill Studio: _Designing for Discord_ | 
+|12:30-01:15|Building Block: _Designing for Discord_ | 
 |`1:15-2:00`|`Screen Break`|
-|2:00-2:45|Skill Studio: _Designing for Discord_ | 
+|2:00-2:45|Building Block: _Designing for Discord_ | 
 |`2:45-3:00`|`Screen Break`|
-|3:00-3:45|Skill Studio: _Designing for Discord_ | 
+|3:00-3:45|Building Block: _Designing for Discord_ | 
 |3:45-4:00|Daily Retrospective| 
 
 
@@ -33,20 +33,20 @@ By the end of today, entrepreneurs should be able to...
 
 #### Daily Standup
 ```
-Entrepreneurs will start the day by exploraing three questions [1] What did we do yesterday? [2] What is the plan for the day? [3] What is standing in your way?```
+Developers will start the day by exploraing three questions [1] What did we do yesterday? [2] What is the plan for the day? [3] What is standing in your way?```
 ```
 
-#### Skills Lab: _Discovering Designing Thinking_
+#### Workshop: _Discovering Designing Thinking_
 ```
-In this hands-on workshop, entrepreneurs will learn the Design Thinking process by experiencing the Collabovation Challenge a series of design thinking activities framed around the same type of problems which will be explored during the Accelerator.
+In this hands-on workshop, developers will learn the Design Thinking process by experiencing the Collabovation Challenge a series of design thinking activities framed around the same type of problems which will be explored during the Accelerator.
 ```
-#### Skills Lab: _Understanding User Flow_
+#### Workshop: _Understanding User Flow_
 ```
-In this hands-on workshop, entrepreneurs will be introduced to the User Experience (UX) and User Interface (UI) design process, building out their first User Flow diagram for the solution developed in the previous workshop.
+In this hands-on workshop, developers will be introduced to the User Experience (UX) and User Interface (UI) design process, building out their first User Flow diagram for the solution developed in the previous workshop.
 ```
-#### Skill Studio: _Designing for Discord_
+#### Building Block: _Designing for Discord_
 ```
-In this self-directed collabovation period, entrepreneurs will work in teams to apply the skills learned during the two workshops of the day to select a single design which they will be implimenting over the course of the Accelerator.
+In this self-directed collabovation period, developers will work in teams to apply the skills learned during the two workshops of the day to select a single design which they will be implimenting over the course of the Accelerator.
 ```
 
 
