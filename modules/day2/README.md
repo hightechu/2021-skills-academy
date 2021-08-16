@@ -39,7 +39,7 @@ Developers will start the day by exploraing three questions [1] What did we do y
 
 #### Workshop: _Discovering Designing Thinking_
 ```
-In this hands-on workshop, developers will learn the Design Thinking process by experiencing the Collabovation Challenge a series of design thinking activities framed around the same type of problems which will be explored during the Accelerator.
+In this hands-on workshop, developers will learn the Design Thinking process by experiencing the Collabovation Challenge a series of design thinking activities framed around the same type of problems which will be explored during the Academy.
 ```
 #### Workshop: _Understanding User Flow_
 ```
@@ -48,7 +48,7 @@ In this hands-on workshop, developers will be introduced to the User Experience 
 #### Building Block: _Designing for Discord_
 
 ```
-In this self-directed collabovation period, developers will work in teams to apply the skills learned during the two workshops of the day to select a single design which they will be implimenting over the course of the Accelerator.
+In this self-directed collabovation period, developers will work in teams to apply the skills learned during the two workshops of the day to select a single design which they will be implimenting over the course of the Academy.
 ```
 
 
